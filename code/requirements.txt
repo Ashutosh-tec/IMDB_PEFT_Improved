@@ -1,0 +1,15 @@
+
+torch
+transformers
+datasets
+peft
+accelerate
+numpy
+pandas
+scikit-learn
+scipy
+ 
+matplotlib
+
+packaging
+ 
